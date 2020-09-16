@@ -24,9 +24,9 @@ the current hour schedule. After saving their schedules, users can reopen the
 application and their schedules are always available during the working hours.
 
 ```
-[Link to the Work Day Scheduler application](https://hjlogique.github.io/gw_bc_hw3/)
+[Link to the Work Day Scheduler application](https://hjlogique.github.io/gw_bc_hw5/)
 <br/><br/>
-![View Work Day Scheduler application screenshot](/screenshot/password_generator_screenshot.png)
+![View Work Day Scheduler application screenshot](/screenshots/daily_work_chalandar.png)
 
 ```
 In this assignment I accomplished the followings:
