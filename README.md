@@ -32,16 +32,16 @@ application and their schedules are always available during the working hours.
 In this assignment I accomplished the followings:
 
 - Created an application that saves users' daily schedules and plans
-  in the local storage, verifies if a schedule is old, current or upcoming
-  and display them in different colors accordingly.  
+  in the local storage, verifies if a schedule is old, current or upcoming,
+  and displays them in different colors accordingly.  
 - Created different elements (Bootstrap components) through JQuery and 
   JavaScript dynamically.
-- Used the MomentsJs functions to access the time in different formats
-  and verify Past, Present and Future tenses.
+- Used the MomentsJs functions to access time in different formats and 
+  verify Past, Present and Future tenses.
 - Saved the time and user's entered information to the local storage and 
   updated the information on the display using the saved data.
 - Tested the overall functionality of the app for working hours and
-  other hours of the day.
+  other hours during a day.
 - Uploaded the updated files to my personal GitHub repository, and made the 
   URLs to my deployed application, and my GitHub repository available.
   
