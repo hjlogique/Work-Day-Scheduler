@@ -27,14 +27,9 @@ application and their schedules are always available during the working hours.
 [Link to the Work Day Scheduler application](https://hjlogique.github.io/gw_bc_hw5/)
 <br/><br/>
 
-```
-Outside of working hours.
-```
 ![View Work Day Scheduler application screenshot](/screenshots/daily_work_chalandar.png)
 <br/><br/>
-```
-Dring the working hours.
-```
+
 ![View Work Day Scheduler application screenshot](/screenshots/daily_work_chalandar_scheduled.png)
 
 ```
