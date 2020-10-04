@@ -28,12 +28,15 @@ application and their schedules are always available during the working hours.
 Note: The first screenshot below displays the scheduler during the working 
 hours. The red row is the current scheduled plan and the blue rows are the 
 upcoming ones. The second screenshot displays the scheduler after the working
-hours before the midnight.
+hours before the midnight. The third screenshot displays the scheduler after 
+midnight before the working hours.
 
 ```
 ![View Work Day Scheduler application screenshot](/screenshots/daily_work_chalandar_scheduled.png)
 <br/><br/>
 ![View Work Day Scheduler application screenshot](/screenshots/daily_work_chalandar.png)
+<br/><br/>
+![View Work Day Scheduler application screenshot](/screenshots/work_day_future.png)
 
 ```
 I accomplished the followings:
