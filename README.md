@@ -36,7 +36,7 @@ saved plans during the working hours.
 ![View Work Day Scheduler application screenshot](/screenshots/daily_work_chalandar_scheduled.png)
 
 ```
-In this assignment I accomplished the followings:
+I accomplished the followings:
 
 - Created an application that saves users' daily schedules and plans
   in the local storage, verifies if a schedule is old, current or upcoming,
