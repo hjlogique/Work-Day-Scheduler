@@ -25,15 +25,15 @@ working hour starts, the rows become dark blue. One orange row always displays
 the current hour schedule. After saving their schedules, users can reopen the 
 application and their schedules are always available during the working hours.
 
-Note: The first screenshot below displays the scheduler outside of the working 
-hours before midnight and the second screenshot displays the color change of 
-the rows and the saved plans during the working hours.
+Note: The first screenshot below displays the scheduler during the working 
+hours. The red row is the current scheduled plan and the blue rows are the 
+upcoming ones. The second screenshot displays the scheduler after the work
+hours before the midnight.
 
 ```
-![View Work Day Scheduler application screenshot](/screenshots/daily_work_chalandar.png)
-<br/><br/>
-
 ![View Work Day Scheduler application screenshot](/screenshots/daily_work_chalandar_scheduled.png)
+<br/><br/>
+![View Work Day Scheduler application screenshot](/screenshots/daily_work_chalandar.png)
 
 ```
 I accomplished the followings:
