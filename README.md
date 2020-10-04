@@ -27,7 +27,7 @@ application and their schedules are always available during the working hours.
 
 Note: The first screenshot below displays the scheduler during the working 
 hours. The red row is the current scheduled plan and the blue rows are the 
-upcoming ones. The second screenshot displays the scheduler after the work
+upcoming ones. The second screenshot displays the scheduler after the working
 hours before the midnight.
 
 ```
