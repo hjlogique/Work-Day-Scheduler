@@ -3,7 +3,7 @@
 GW CODING BOOTCAMP
 Application: Work Day Scheduler - Third-Party API  
 By HENRY JEAN LOGIQUE
-Used technologies: HTML, CSS, JavaScript
+Used technologies: HTML, CSS, JavaScript, MomentJs, Bootstrap framework
 
 ```
 ```
