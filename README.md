@@ -1,11 +1,9 @@
-# gw_bc_hw5
 
 ```
 GW CODING BOOTCAMP
-HOMEWORK 5: Work Day Scheduler - Third-Party API  
-Due date: Wednesday, 09/16/20 Midnight Eastern Time (ET)
-Student: HENRY JEAN LOGIQUE
-Subject: Work Day Scheduler
+Application: Work Day Scheduler - Third-Party API  
+By HENRY JEAN LOGIQUE
+Used technologies: HTML, CSS, JavaScript
 
 ```
 ```
