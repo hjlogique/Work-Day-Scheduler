@@ -4,8 +4,10 @@ GW CODING BOOTCAMP
 Application: Work Day Scheduler - Third-Party API  
 By HENRY JEAN LOGIQUE
 Used technologies: HTML, CSS, JavaScript, MomentJs, Bootstrap framework
-
+License: MIT
 ```
+[Link to the Work Day Scheduler application](https://hjlogique.github.io/Work-Day-Scheduler/)
+
 ```
 The “Work Day Scheduler” is a simple daily planner application which saves 
 users' daily schedules between 7AM and 7Pm for each hour a day. In the 
@@ -26,9 +28,6 @@ hours and the second screenshot displays the color change of the rows and the
 saved plans during the working hours.
 
 ```
-[Link to the Work Day Scheduler application](https://hjlogique.github.io/gw_bc_hw5/)
-<br/><br/>
-
 ![View Work Day Scheduler application screenshot](/screenshots/daily_work_chalandar.png)
 <br/><br/>
 
