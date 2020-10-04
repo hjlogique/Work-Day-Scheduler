@@ -26,8 +26,8 @@ the current hour schedule. After saving their schedules, users can reopen the
 application and their schedules are always available during the working hours.
 
 Note: The first screenshot below displays the scheduler outside of the working 
-hours and the second screenshot displays the color change of the rows and the 
-saved plans during the working hours.
+hours before midnight and the second screenshot displays the color change of 
+the rows and the saved plans during the working hours.
 
 ```
 ![View Work Day Scheduler application screenshot](/screenshots/daily_work_chalandar.png)
